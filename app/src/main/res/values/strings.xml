@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">12Layout</string>
+    <string name="button_label_count">Count</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="contador">0</string>
+    <string name="Restart">Reiniciar</string>
+</resources>
